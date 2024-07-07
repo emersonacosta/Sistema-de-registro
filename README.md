@@ -1,2 +1,2 @@
 # Sistema-de-registro
-practivas de uso de github
+- Estado del proyecto: en construcción
